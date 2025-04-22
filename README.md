@@ -15,7 +15,7 @@ ColorFlux is a sleek and simple web app that generates random hex color backgrou
 
 🔧 How to Use
     Clone the repository:
-    git clone https://github.com/your-username/colorflux.git
+    git clone https://github.com/AdinathJabade/colorflux.git
     Open index.html in your browser.
     Click the "Generate" button and enjoy new colors!
 
